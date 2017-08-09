@@ -6,7 +6,7 @@ function returnFavoriteCat (favoriteCat) {
   } else if (favoriteCat === 'Tabby') {
     return 'houseCat'
   } else {
-    return 'Dog Person';
+    return 'Sooooo so so so soooo ded';
   }
 }
 
