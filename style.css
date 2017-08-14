@@ -15,3 +15,8 @@ h3 {font-size:16px;
 
 img {
   border-radius: 100%;
+}
+
+#bullet-list{
+  text-transform: uppercase;
+}
