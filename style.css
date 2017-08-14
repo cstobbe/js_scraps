@@ -7,12 +7,11 @@ h1 {
   color: DarkSlateGrey;
   font-family: 'Forum', cursive;
   font-size: 36px;
-  text-transform:uppercase;
+  text-transform: uppercase;
   text-decoration: none;
 }
 
-h2 {font-style: italic;
-    font-size:18px;
+h2 {font-size:16px;
 }
 
 img {
