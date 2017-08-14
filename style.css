@@ -11,5 +11,9 @@ h1 {
   text-decoration: none;
 }
 
+p {font-style: italic;
+
+}
+
 img {
   border-radius: 100%;
