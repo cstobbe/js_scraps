@@ -2,9 +2,10 @@
 }
 
 .header {
+  background-image: url(https://i.ytimg.com/vi/gKKYnNvfU1A/maxresdefault.jpg);
   color: DarkSlateGrey;
   font-family: 'Forum', cursive;
-  font-size: 36px;
+  font-size: 22px;
   text-transform: uppercase;
   text-decoration: none;
 }
