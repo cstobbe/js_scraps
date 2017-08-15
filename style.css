@@ -33,3 +33,9 @@ img {
   text-align:left;
   font-weight:200;
 }
+
+.container{
+  max-height:100px;
+  max-width:300px;
+  overflow:scroll;
+}
