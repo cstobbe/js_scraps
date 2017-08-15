@@ -10,6 +10,10 @@ body {background-color: Lavender;
   text-decoration: none;
 }
 
+.box-sizing{
+  width=320px;
+}
+
 h3 {font-size:16px;
   font-family: serif;
     font-weight: bold;
@@ -27,6 +31,4 @@ img {
 .bulleted{
   text-align:left;
   font-weight:200;
-  height:320px;
-  width:100px;
 }
