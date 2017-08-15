@@ -24,7 +24,7 @@ h3 {font-size:20px;
 
 img {
   border-radius: 100%;
-  border-style:groove;
+  border-style:dashed;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
