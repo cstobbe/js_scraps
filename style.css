@@ -1,5 +1,5 @@
-/* {background-color: Lavender;
-}*/
+body {background-color: Lavender;
+}
 
 .header {
   background-image: url(https://i.ytimg.com/vi/gKKYnNvfU1A/maxresdefault.jpg);
@@ -26,5 +26,4 @@ img {
 .bulleted{
   text-align:left;
   font-weight:200;
-  background-color:Lavender;
 }
