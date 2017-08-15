@@ -13,6 +13,7 @@ body {background-color: Lavender;
 h3 {font-size:16px;
   font-family: serif;
     font-weight: bold;
+    test-transform: uppercase;
 }
 
 img {
