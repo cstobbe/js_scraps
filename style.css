@@ -1,5 +1,5 @@
 body {background-color: Lavender;
-  font-family:Georgia;
+  font-family:Arial;
 }
 
 .header {
@@ -16,7 +16,7 @@ body {background-color: Lavender;
   height:100px;
 }
 
-h3 {font-size:16px;
+h3 {font-size:20px;
   font-family: serif;
     font-weight: bold;
     test-transform: uppercase;
