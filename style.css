@@ -3,7 +3,7 @@
 
 .header {
   background-image: url(https://i.ytimg.com/vi/gKKYnNvfU1A/maxresdefault.jpg);
-  color: DarkSlateGrey;
+  color: White;
   font-family: 'Forum', cursive;
   font-size: 22px;
   text-transform: uppercase;
@@ -26,4 +26,5 @@ img {
 .bulleted{
   text-align:left;
   font-weight:200;
+  background-color:Lavender;
 }
