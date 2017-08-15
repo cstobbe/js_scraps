@@ -27,4 +27,6 @@ img {
 .bulleted{
   text-align:left;
   font-weight:200;
+  height:320px;
+  width:100px;
 }
