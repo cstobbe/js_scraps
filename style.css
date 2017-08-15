@@ -1,7 +1,7 @@
 * {background-color: Lavender;
 }
 
-h1.header {
+.header {
   color: DarkSlateGrey;
   font-family: 'Forum', cursive;
   font-size: 36px;
