@@ -20,7 +20,6 @@ h3 {font-size:20px;
   font-family: serif;
     font-weight: bold;
     test-transform: uppercase;
-    border: 2px solid Black;
 }
 
 img {
@@ -38,6 +37,8 @@ img {
 .bulleted{
   text-align:left;
   font-weight:200;
+  border-style:solid;
+  border-radius: 100%;
 }
 
 .container{
