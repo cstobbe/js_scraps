@@ -24,9 +24,10 @@ h3 {font-size:20px;
 
 img {
   border-radius: 100%;
-  border-style:dashed
+  /*border-style:dashed
   border-width:2px;
-  border-color: #AF3432;
+  border-color: #AF3432;*/
+  border: 2px dashed Black;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
