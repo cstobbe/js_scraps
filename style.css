@@ -20,6 +20,7 @@ h3 {font-size:20px;
   font-family: serif;
     font-weight: bold;
     test-transform: uppercase;
+    border: 2px solid Black;
 }
 
 img {
