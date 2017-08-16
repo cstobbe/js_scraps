@@ -27,7 +27,7 @@ img {
   /*border-style:dashed
   border-width:2px;
   border-color: #AF3432;*/
-  border: 2px dashed Black;
+  border: 2px dashed #FFF;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
