@@ -27,8 +27,8 @@ img {
   /*border-style:dashed
   border-width:2px;
   border-color: #AF3432;*/
-  border: 2px dashed #FFF;
-  padding:30px;
+  border: 2px dashed Black;
+  padding:5px;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
