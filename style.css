@@ -14,8 +14,6 @@ body {background-color: Lavender;
 .box-sizing{
   width:320px;
   height:150px;
-  border-style: solid;
-  border-color: black;
 }
 
 h3 {font-size:20px;
@@ -30,6 +28,7 @@ img {
   border-width:2px;
   border-color: #AF3432;*/
   border: 2px dashed #FFF;
+  padding:30px;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
