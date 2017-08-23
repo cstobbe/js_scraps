@@ -32,6 +32,7 @@ img {
   border-color: #AF3432;*/
   border: 2px dashed Black;
   padding:5px;
+  box-sizing: border-box;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
@@ -41,7 +42,6 @@ img {
 .bulleted{
   text-align:left;
   font-weight:200;
-  display: inline-block;
 }
 
 .container{
