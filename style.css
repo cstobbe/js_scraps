@@ -41,6 +41,7 @@ img {
 .bulleted{
   text-align:left;
   font-weight:200;
+  display: inline-block;
 }
 
 .container{
