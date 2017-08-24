@@ -10,7 +10,7 @@ body {background-color: Lavender;
   text-transform: uppercase;
   text-decoration: none;
   margin: auto;
-  position: absolute;
+  position: static;
 }
 
 .box-sizing{
