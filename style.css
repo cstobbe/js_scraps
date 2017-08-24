@@ -11,6 +11,7 @@ body {background-color: Lavender;
   text-decoration: none;
   margin: auto;
   position: fixed;
+  height: 20px;
 }
 
 .box-sizing{
