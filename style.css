@@ -37,6 +37,7 @@ img {
   position: relative;
   left: 30px;
   float: right;
+  clear:left;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
