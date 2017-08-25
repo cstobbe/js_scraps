@@ -36,8 +36,8 @@ img {
   box-sizing: border-box;
   position: relative;
   left: 30px;
-  float: right;
-  clear:left;
+  float: left;
+  clear:both;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
