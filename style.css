@@ -32,8 +32,8 @@ img {
   border-color: #AF3432;*/
   border: 2px dashed Black;
   padding:5px;
-  box-sizing: border-box;
   clear: both;
+  position: static;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
