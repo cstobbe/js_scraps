@@ -33,7 +33,6 @@ img {
   border: 2px dashed Black;
   padding:5px;
   box-sizing: border-box;
-  position: relative;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
