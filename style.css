@@ -10,7 +10,6 @@ body {background-color: Lavender;
   text-transform: uppercase;
   text-decoration: none;
   margin: auto;
-  position: static;
 }
 
 .box-sizing{
@@ -35,7 +34,6 @@ img {
   padding:5px;
   box-sizing: border-box;
   position: relative;
-  left: 30px;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
