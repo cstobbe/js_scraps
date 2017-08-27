@@ -25,12 +25,14 @@ h3 {font-size:20px;
     test-transform: uppercase;
 }
 
-.images {
+img {
   border-radius: 100%;
   /*border-style:dashed
   border-width:2px;
   border-color: #AF3432;*/
   border: 2px dashed Black;
+  display: block;
+  margin: 0px auto;
 }
 /* style a unique identifier element from index.html
 #bullet-list{
