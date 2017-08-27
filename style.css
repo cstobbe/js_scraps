@@ -45,8 +45,8 @@ img {
 .container{
   max-height:100px;
   max-width:300px;
-  /*overflow:scroll;
-  float:left; */
+  overflow:scroll;
+  float:right;
 }
 
 .container-header{
