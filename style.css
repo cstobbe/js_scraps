@@ -28,8 +28,8 @@ h3 {font-size:20px;
 img {
   border-radius: 100%;
   border: 2px dashed Black;
-  display: block;
-  margin: 0px auto;
+  /*display: block;
+  margin: 0px auto;*/
 }
 /* style a unique identifier element from index.html
 #bullet-list{
