@@ -46,6 +46,8 @@ img {
   max-width:300px;
   overflow:scroll;
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLigcokiZpiXJ_n2iWsSnMavKrhJ8iBKvKfztZJNJ9W5ijSWCE");
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .container-header{
@@ -62,4 +64,6 @@ button{
 
 table, td{
   border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
