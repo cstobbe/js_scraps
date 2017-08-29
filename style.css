@@ -54,3 +54,11 @@ img {
 .container-header{
   font-size:10px;
 }
+
+button{
+  background-color: rgb(250,254,177);
+  border: dashed;
+  width:25px;
+  height: auto;
+
+}
