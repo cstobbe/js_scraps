@@ -27,9 +27,6 @@ h3 {font-size:20px;
 
 img {
   border-radius: 100%;
-  /*border-style:dashed
-  border-width:2px;
-  border-color: #AF3432;*/
   border: 2px dashed Black;
   display: block;
   margin: 0px auto;
@@ -48,7 +45,6 @@ img {
   max-height:100px;
   max-width:300px;
   overflow:scroll;
-  float:left;
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLigcokiZpiXJ_n2iWsSnMavKrhJ8iBKvKfztZJNJ9W5ijSWCE");
 }
 
