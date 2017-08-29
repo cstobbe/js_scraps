@@ -58,7 +58,7 @@ img {
 button{
   background-color: rgb(250,254,177);
   border: dashed;
-  width:25px;
+  width:auto;
   height: auto;
 
 }
