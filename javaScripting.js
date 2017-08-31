@@ -11,3 +11,5 @@ function returnFavoriteCat (favoriteCat) {
 }
 
 console.log(returnFavoriteCat(favoriteCat))
+
+console.log (3+3);
