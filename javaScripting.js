@@ -12,4 +12,4 @@ function returnFavoriteCat (favoriteCat) {
 
 console.log(returnFavoriteCat(favoriteCat))
 
-console.log ('Catloaf');
+console.log(Math.random());
