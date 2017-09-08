@@ -24,6 +24,6 @@ while (counter < 10){
 console.log(result);
 */
 
-/*looping a triangle exercise from page 37 in Eloquent JS
+/*looping a triangle exercise from page 37 in Eloquent JS*/
 for (var line = '#'; line.length<8; line +='#')
-console.log(line);*/
+console.log(line);
