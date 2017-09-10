@@ -24,6 +24,15 @@ while (counter < 10){
 console.log(result);
 */
 
-/*looping a triangle exercise from page 37 in Eloquent JS*/
+/*looping a triangle exercise from page 37 in Eloquent JS
 for (var line = '#'; line.length<8; line +='#')
-console.log(line);
+console.log(line);*/
+
+for (var n=1; n <=100; n++) {
+  var output = "";
+  if (n % 3 == 0)
+  output += "fizz";
+  if (n%5 == 0)
+  output += "buzz";
+    console.log(output || n);
+}
