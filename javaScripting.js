@@ -28,7 +28,7 @@ console.log(result);
 for (var line = '#'; line.length<8; line +='#')
 console.log(line);*/
 
-/*fizz buzz exescise from page 38 Eloquent JavaScript*/
+/*fizz buzz exescise from page 38 Eloquent JavaScript
 for (var n=1; n <=100; n++) {
   var output = "";
   if (n % 3 == 0)
@@ -36,4 +36,21 @@ for (var n=1; n <=100; n++) {
   if (n%5 == 0)
   output += "buzz";
     console.log(output || n);
+}*/
+
+/*recursion example from Eloquent JS p 51)*/
+
+function findSolution(target) {
+  function find(start,history){
+    if (start == target)
+    return history;
+    else if (start>target)
+    return null;
+    else
+      return find( start + 5, "(" + history +" +5)") ||
+            find(start * 3, "("+ history + " *3)");
+  }
+  return find(1,"1");
 }
+
+  console.log(findSolution(24));
