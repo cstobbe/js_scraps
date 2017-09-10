@@ -28,6 +28,7 @@ console.log(result);
 for (var line = '#'; line.length<8; line +='#')
 console.log(line);*/
 
+/*fizz buzz exescise from page 38 Eloquent JavaScript*/
 for (var n=1; n <=100; n++) {
   var output = "";
   if (n % 3 == 0)
