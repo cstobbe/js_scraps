@@ -40,7 +40,7 @@ for (var n=1; n <=100; n++) {
 
 /*recursion example from Eloquent JS p 51)*/
 
-function findSolution(target) {
+/*function findSolution(target) {
   function find(start,history){
     if (start == target)
     return history;
@@ -56,7 +56,7 @@ function findSolution(target) {
   console.log(findSolution(24));
 
   /*Eloquent JavaScript page 53 example on growing functions*/
-  function printFarmInventory(cows,chickens) {
+  /*function printFarmInventory(cows,chickens) {
     var cowString= String(cows);
     while (cowString.length<3)
       cowString = "0" + cowString;
@@ -67,3 +67,12 @@ function findSolution(target) {
     console.log(chickenString + "Chickens");
   }
 printFarmInventory(7,11);
+*/
+
+/*Chapter 3 Exercises*/
+/*Minimum Exercise*/
+function min (a,b) {
+  if (a<b)
+    return a;
+    else return b;
+}
