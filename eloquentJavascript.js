@@ -19,3 +19,14 @@ console.log(result);*/
 
 for (var line="#";line.length<8;line +="#")
   console.log(line);
+
+/*Chapter 2 FizzBuzz exercise*/
+for (var n=1;n<=100; n++){
+  var output = "";
+  if (n %3  == 0)
+    output +="fizz";
+  if (n % 5 == 0)
+    output +="buzz";
+
+  console.log(output || n);
+}
