@@ -71,16 +71,16 @@ printFarmInventory(7,11);
 
 /*Chapter 3 Exercises*/
 /*Minimum Exercise*/
-function min (a,b) {
+/*function min (a,b) {
   if (a<b)
     return a;
     else return b;
 }
-console.log(min(0,13));
+console.log(min(0,13));*/
 
 
 /*Recursion Example*/
-function isEven(n){
+/*function isEven(n){
     if (n=0)
       return true;
     else if (n=1)
