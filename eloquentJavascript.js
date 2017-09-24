@@ -1,26 +1,25 @@
-/*Chapter 1 Exercises*/
-/*page 31
+//Chapter 1 Exercises page 31
 var number = 0;
 while (number<=12) {
   console.log(number);
   number = number + 2;
 }
 
-/*page 32
+//page 32
 var result = 1;
 var counter = 0;
 while (counter<10) {
   result = result*2;
   counter = counter + 1;
 }
-console.log(result);*/
+console.log(result);
 
-/*Chapter 2 Exercise 1
+//Chapter 2 Exercise 1
 
 for (var line="#";line.length<8;line +="#")
-  console.log(line);*/
+  console.log(line);
 
-/*Chapter 2 FizzBuzz exercise
+//Chapter 2 FizzBuzz exercise
 for (var n=1;n<=100; n++){
   var output = "";
   if (n %3  == 0)
@@ -29,9 +28,9 @@ for (var n=1;n<=100; n++){
     output +="buzz";
 
   console.log(output || n);
-}*/
+}
 
-/* Chapter 2 Chess Board Exercise*/
+// Chapter 2 Chess Board Exercise
 var size=8;
 var board=" ";
   for (var y=0;y<size;y++){
@@ -44,4 +43,13 @@ var board=" ";
     board +="\n";
   }
 
-console.log(board);
+console.log(board);//
+
+//Chapter 3 Exercises
+function min (a,b){
+  if (a<b)
+    return a;
+    else return b;
+}
+
+console.log(min(34,56));
