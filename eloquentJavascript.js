@@ -1,18 +1,18 @@
 //Chapter 1 Exercises page 31
-var number = 0;
-while (number<=12) {
-  console.log(number);
-  number = number + 2;
-}
+//var number = 0;
+//while (number<=12) {
+  //console.log(number);
+  //number = number + 2;
+//}
 
 //page 32
-var result = 1;
-var counter = 0;
-while (counter<10) {
-  result = result*2;
-  counter = counter + 1;
-}
-console.log(result);
+//var result = 1;
+//var counter = 0;
+//while (counter<10) {
+  //result = result*2;
+  //counter = counter + 1;
+//}
+//console.log(result);
 
 //Chapter 2 Exercise 1
 
@@ -53,3 +53,32 @@ function min (a,b){
 }
 
 console.log(min(34,56));
+
+//Chapter 3 Recursion example
+function isEven(n){
+  if (n==0)
+    return true;
+  if (n==1)
+    return false;
+  else if (n<0)
+    return isEven(-n);
+  else
+    return isEven(n-2);
+  }
+
+console.log(isEven(-1));
+
+//Chapter 3 Bean Counting example
+function countChar (string,ch) {
+  var counted = 0;
+for (var i = 0;i < string.length;i++)
+  if (string.charAt(i) == ch)
+    counted +=1;
+    return counted;
+}
+function countBs(string){
+  return countChar(string, "B");
+}
+
+console.log(countBs("BBB"));
+console.log(countChar("keepkeehng","k"));
