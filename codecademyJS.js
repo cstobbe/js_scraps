@@ -8,8 +8,13 @@
 
 //console.log("The temperature is " + farenheit + " degrees farenheit.");
 
-//functions
-const takeOrder = ()=> {
-  console.log('Order: pizza');
-};
-takeOrder();
+//function declarations
+function isGreaterThan (numberOne,numberTwo) {
+  if ( numberOne > numberTwo) {
+    return true;
+  }
+  else {
+    return false;
+  }
+}
+isGreaterThan(5,66);
