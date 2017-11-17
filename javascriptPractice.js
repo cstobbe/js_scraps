@@ -1,8 +1,8 @@
-//p.64
+//p.64 Objects
 var anObject = {left:1, right:2};
 console.log(anObject.left);
 
-//p.65
+//p.65 Objects
 //var journal = [
   //{events: ["work", "touched tree", "pizza", "running", "television"],
     //squirrel: false},
